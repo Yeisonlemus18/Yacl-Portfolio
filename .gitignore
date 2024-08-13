@@ -1,0 +1,22 @@
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Directorios de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración local
+.env
+config.local.php
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Compilados o builds
+dist/
+build/
+*.o
+*.exe
